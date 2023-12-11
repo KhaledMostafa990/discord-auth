@@ -1,4 +1,4 @@
-const host = 'https://discord-auth-tisb.onrender.com/';
+const host = 'https://discord-auth-tisb.onrender.com';
 
 const API = {
     discordUrl: '/auth/discord/url',
