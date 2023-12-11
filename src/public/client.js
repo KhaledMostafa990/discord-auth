@@ -1,5 +1,4 @@
-const host = 'http://localhost:3000';
-console.log(process.env.ENV);
+const host = 'https://discord-auth-tisb.onrender.com/';
 
 const API = {
     discordUrl: '/auth/discord/url',
