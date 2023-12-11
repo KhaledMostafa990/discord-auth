@@ -1,0 +1,7 @@
+.env
+config.env
+.config.env
+node_modules
+dist
+todo.md
+dockerfile
