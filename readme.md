@@ -2,7 +2,8 @@
 # Discord Auth API
 
 ## Demo 
-    
+
+- [Discord-auth](http://ec2-54-161-78-253.compute-1.amazonaws.com)
 
 ## Table of contents
 
